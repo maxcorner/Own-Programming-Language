@@ -1,4 +1,4 @@
-n = 6
+n = 5
 r = 1
 while n 1 <=:
     r = r n *
